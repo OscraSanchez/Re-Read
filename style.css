@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+    /* padding: 0%; */
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+.hulk {
+    background-color: #0B5345;
+}
+.blanquito {
+    color: white;
+    font-size: medium;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+}
+.go {
+    text-align: center;
+}
+.gogo {
+    font-size: 80px;
+    font-weight: 700;
+}
+.gogogo {
+    margin-left: 24%;
+    margin-right: 24%;
+    font-size: 16px;
+}
