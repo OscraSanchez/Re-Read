@@ -27,3 +27,77 @@
     margin-right: 24%;
     font-size: 16px;
 }
+.Shrek {
+    background-color: #127A65;
+    color: white;
+    padding-right: 5%;
+}
+.uwu {
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-bottom: 2%;
+}
+.owo {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.UWU {
+    margin-right: 1%;
+}
+.OWO {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+}
+.aaa {
+    width: 80%;
+}
+.aa {
+    width: 100%;
+}
+.a {
+    margin-right: 30%;
+}
+.raww {
+    margin-right: 15%;
+}
+.peke {
+    font-size: 12px;
+}
+
+/* nav */
+
+.nav-tabs .nav-link {
+    color: black;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: orange;
+    color: white;
+    border-color: orange;
+}
+
+.nav-tabs {
+    border-bottom: 3px solid orange;
+}
+
+@media screen and (max-width: 768px) {
+    .gogogo {
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 12px;
+    }
+    .owo {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .aa {
+        width: 100%;
+    }
+    .a {
+        margin-right: 5%;
+    }
+    .raww {
+        margin-right: 5%;
+    }
+}
